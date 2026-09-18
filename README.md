@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jordan Tirado
 
-<!--
-**JTirado06/JTirado06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the University of Central Florida interested in software development, embedded systems, and digital hardware design.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Java, C, Verilog
+* **Tools:** Git, GitHub, Vivado, LTspice
+* **Concepts:** Object-oriented programming, data structures, digital logic, and circuit analysis
+
+## Featured Project
+
+### [Blackjack](https://github.com/JTirado06/BlackJack)
+
+A command-line Blackjack game developed in Java using object-oriented programming. It features a shuffled 52-card deck, player and dealer logic, Ace value adjustment, and multiple playable rounds.
+
+## Currently
+
+* Expanding my software and computer engineering portfolio
+* Seeking software, embedded systems, and hardware internship opportunities
