@@ -5,7 +5,7 @@ I'm a Computer Engineering student at the University of Central Florida interest
 ## Technical Skills
 
 * **Languages:** Java, C, Verilog
-* **Tools:** Git, GitHub, Vivado, LTspice
+**Tools:** Git, GitHub, GitHub Actions, Vivado, LTspice
 * **Concepts:** Object-oriented programming, data structures, digital logic, and circuit analysis
 
 ## Featured Projects
